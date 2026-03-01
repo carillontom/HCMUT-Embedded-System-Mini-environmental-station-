@@ -7,7 +7,7 @@ Requirement definition: https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6
 System specification: https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6xRYdXv68gtSpY5OcIZm6p9dKSyE/edit?gid=85428960#gid=85428960
 
 Block diagram:
-<img width="1209" height="805" alt="image" src="https://github.com/user-attachments/assets/8eb369fb-183f-435d-8c9a-7bf7eb40d305" />
+<img width="912" height="608" alt="Block_diagram" src="https://github.com/user-attachments/assets/84495bda-830b-4fc9-9eae-1af0e7dde27e" />
 
 Schematic:
 
