@@ -11,4 +11,7 @@ Block diagram:
 
 Schematic: In progress
 
+<img width="1176" height="787" alt="SchematicProteus" src="https://github.com/user-attachments/assets/b6bdaaeb-ddc6-4280-82d8-9c49ce399221" />
+
+
 PCB Layout: In progress
