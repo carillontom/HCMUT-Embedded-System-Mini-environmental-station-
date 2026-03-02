@@ -9,6 +9,6 @@ System specification: [https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6x
 Block diagram:
 <img width="912" height="608" alt="Block_diagram" src="https://github.com/user-attachments/assets/84495bda-830b-4fc9-9eae-1af0e7dde27e" />
 
-Schematic:
+Schematic: In progress
 
-PCB Layout: 
+PCB Layout: In progress
