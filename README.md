@@ -7,12 +7,16 @@ Requirement definition: [https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh
 System specification: [https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6xRYdXv68gtSpY5OcIZm6p9dKSyE/edit?gid=85428960#gid=85428960](https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6xRYdXv68gtSpY5OcIZm6p9dKSyE/edit?gid=85428960#gid=85428960)
 
 Block diagram:
-<img width="912" height="608" alt="Block_diagram" src="https://github.com/user-attachments/assets/84495bda-830b-4fc9-9eae-1af0e7dde27e" />
+<img width="1597" height="873" alt="image" src="https://github.com/user-attachments/assets/5b9b26d5-75e4-432e-be61-d64294602336" />
 
-Schematic: In progress
+Power tree:
+<img width="1216" height="907" alt="image" src="https://github.com/user-attachments/assets/27df6ce8-8205-421a-a3ea-5411d4afe9ed" />
 
-<img width="1191" height="797" alt="ProSchem" src="https://github.com/user-attachments/assets/f94e5d22-54dc-421a-a0a0-b297d67307cd" />
+Schematic: 
+<img width="1264" height="895" alt="image" src="https://github.com/user-attachments/assets/1ab8939e-ab94-4f49-a287-11068563a412" />
+<img width="1236" height="885" alt="image" src="https://github.com/user-attachments/assets/8564415c-9c65-4e5f-876d-a29523fe493a" />
+<img width="1233" height="883" alt="image" src="https://github.com/user-attachments/assets/70113e62-b404-4a15-afa6-42f4b88a6622" />
+<img width="1235" height="884" alt="image" src="https://github.com/user-attachments/assets/df513570-7f0b-4802-a3a9-73cf1b88ffef" />
+<img width="1233" height="885" alt="image" src="https://github.com/user-attachments/assets/21fa5dbb-09f7-4bcd-9f92-8e7bf6daaf1b" />
 
-
-
-PCB Layout: In progress
+PCB Layout: An Pham in progress...
