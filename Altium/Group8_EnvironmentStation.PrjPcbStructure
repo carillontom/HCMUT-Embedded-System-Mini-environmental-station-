@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Block_diagram_page.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Block_diagram_page.SchDoc|FileName=Coverpage.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block_diagram_page.SchDoc|FileName=Mainsystem.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Block_diagram_page.SchDoc|FileName=Power_tree_page.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block_diagram_page.SchDoc|FileName=Powersupply.SchDoc|SheetNumber=4
