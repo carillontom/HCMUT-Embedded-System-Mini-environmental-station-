@@ -19,4 +19,8 @@ Schematic:
 <img width="1235" height="884" alt="image" src="https://github.com/user-attachments/assets/df513570-7f0b-4802-a3a9-73cf1b88ffef" />
 <img width="1233" height="885" alt="image" src="https://github.com/user-attachments/assets/21fa5dbb-09f7-4bcd-9f92-8e7bf6daaf1b" />
 
-PCB Layout: An Pham in progress...
+PCB Layout: 
+<img width="928" height="752" alt="image" src="https://github.com/user-attachments/assets/c8e59226-b8d6-4f9a-ba6a-4b1be59e4d02" />
+<img width="959" height="720" alt="image" src="https://github.com/user-attachments/assets/627cadc2-1852-4459-9855-f624090b0c33" />
+
+
