@@ -6,13 +6,14 @@ Requirement definition: [https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh
 
 System specification: [https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6xRYdXv68gtSpY5OcIZm6p9dKSyE/edit?gid=85428960#gid=85428960](https://docs.google.com/spreadsheets/d/1O582D53Wys3Cwzh6xRYdXv68gtSpY5OcIZm6p9dKSyE/edit?gid=85428960#gid=85428960)
 
-Block diagram:
-
+Block diagram: 
+(In .pdf file)
 
 Power tree:
-
+(In .pdf file)
 
 Schematic: 
+(In .pdf file)
 
 PCB Layout: 
 <img width="928" height="752" alt="image" src="https://github.com/user-attachments/assets/c8e59226-b8d6-4f9a-ba6a-4b1be59e4d02" />
