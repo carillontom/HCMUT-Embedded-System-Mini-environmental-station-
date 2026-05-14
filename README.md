@@ -21,6 +21,6 @@ PCB Layout:
 Full test: https://youtu.be/GwvQwB3FSAY
 Gas test: https://youtu.be/L1KeKjgLLEk
 Temp test: https://youtu.be/eYzAX3KRrvM
-<img width="662" height="310" alt="image" src="https://github.com/user-attachments/assets/33945d53-6e9f-4937-bae0-e4f7fd90ff80" />
+
 
 
