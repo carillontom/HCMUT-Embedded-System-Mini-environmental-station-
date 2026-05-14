@@ -16,7 +16,11 @@ Schematic:
 (In .pdf file)
 
 PCB Layout: 
-<img width="928" height="752" alt="image" src="https://github.com/user-attachments/assets/c8e59226-b8d6-4f9a-ba6a-4b1be59e4d02" />
-<img width="959" height="720" alt="image" src="https://github.com/user-attachments/assets/627cadc2-1852-4459-9855-f624090b0c33" />
+(In .pdf file)
+
+Full test: https://youtu.be/GwvQwB3FSAY
+Gas test: https://youtu.be/L1KeKjgLLEk
+Temp test: https://youtu.be/eYzAX3KRrvM
+<img width="662" height="310" alt="image" src="https://github.com/user-attachments/assets/33945d53-6e9f-4937-bae0-e4f7fd90ff80" />
 
 
